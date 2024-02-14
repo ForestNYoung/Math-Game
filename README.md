@@ -8,6 +8,7 @@ MathGame
 Features and goals
 
 ## UI and Logic Planning
+MathGame will be a text-based game.
 ![Class Diagrams](https://github.com/ForestNYoung/MathGame/blob/main/images/MathGameClassDiagram.png?raw=true)
 
 ## Source Code
