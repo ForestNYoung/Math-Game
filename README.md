@@ -2,7 +2,7 @@
 MathGame 
 
 ## Members
-* Forest Young: Leader
+* Forest Young: Leader, Developer, Tester, Designer
 
 ## Project Objectives
 Features and goals
