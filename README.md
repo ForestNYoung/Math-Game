@@ -12,7 +12,7 @@ Features and goals
 * Create different varieties for each type of problem
 * Include check for invalid answers and wrong answers
 * Include timer and score for user
-* Provide solutions at the end of the game
+* Provide solutions at the end of the game (if I have time)
 
 ## UI and Logic Planning
 MathGame will be a text-based game.
