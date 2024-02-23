@@ -10,6 +10,7 @@ Features and goals
 * Create a game with 4 different problem types
 * Include how many of each problem the user wants
 * Create different varieties for each type of problem
+* Include check for invalid answers and wrong answers
 * Include timer and score for user
 
 ## UI and Logic Planning
