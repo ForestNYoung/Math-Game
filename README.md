@@ -1,5 +1,5 @@
 # MathGame
-MathGame 
+A game to train math skills on different fields.
 
 ## Members
 * Forest Young: Leader, Developer, Tester
