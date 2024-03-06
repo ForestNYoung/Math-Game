@@ -24,6 +24,6 @@ MathGame Class Diagram
 ![Class Diagrams](https://github.com/ForestNYoung/MathGame/blob/main/images/MathGameClassDiagram.png?raw=true)
 
 ## Source Code
-[Source Code](https://github.com/ForestNYoung/MathGame/raw/main/src/MathGameA.zip)
+[Download Source Code!](https://github.com/ForestNYoung/MathGame/raw/main/src/MathGameA.zip)
 
-[Replit](https://replit.com/@9714599/MathGame)
+[Go to Replit!](https://replit.com/@9714599/MathGame)
