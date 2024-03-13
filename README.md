@@ -6,7 +6,7 @@ A game to train math skills on different fields.
 
 ## Project Objectives
 Features and goals
-
+  
 * Create a game with 4 different problem types
 * Include how many of each problem the user wants
 * Create different varieties for each type of problem
